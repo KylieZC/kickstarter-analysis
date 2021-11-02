@@ -31,7 +31,8 @@ When I figured out the column of Percentage Funded on the Kickstarter workbook, 
 There is an opposite direction between success and higher goal amount range. The higher the goal range, the lower the successful percentage, the higher failed percentage. 
 
 ### Limitations of the dataset 
-Based on Category Statistics fliter by country, I found that this dataset mainly focus on US and GB, which is not comprehensive enough to analyze all the areas.
+Based on Category Statistics fliter by country, I found that this dataset mainly focus on US and GB, which is not comprehensive enough to analyze all the countries.
 
 ### Other possible tables and graphs 
-We could create the graph of Outcome based on pledged to analyze the amount people actually willling to pay on these projects. Also, we can figure out which year has the highest average donation between 2009-2017.
+1. We could create the graph of Outcome based on pledged to analyze the amount people actually willling to pay on these projects. 
+2. We can figure out which year has the highest average donation between 2009-2017.
