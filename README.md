@@ -1,7 +1,9 @@
 # kickstarter-analysis
 
+
 ## Overview of Project
 Louise is a playwright who wants to raise more than $ 10,000 funds the budget for her play, Fever. And she seeks whether there are specific factors to promote the success of the fundraising. The project helps Louise uncover the facts and possible factors of successful crowdfunding campaigns based on the dataset, including 4,000 crowdfunding projects information. 
+
 
 ## Analysis and Challenges
 
@@ -13,6 +15,7 @@ The graph displays the number of changes in three crowdfunding outcomes (success
 
 ### Challenges and Difficulties Encountered
 When I figured out the column of Percentage Funded on the Kickstarter workbook, it failed to display colour gradient. I tried a lot of time in conditional formatting and colour scale, but it did not work. So I search through the Google Internet to find answers. Finally, I noticed that this is a percentage column, requiring me to change the type to percent in the formatting rule and enter the extremum values to show the gradient. 
+
 
 ## Results
 
