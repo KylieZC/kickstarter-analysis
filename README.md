@@ -16,14 +16,14 @@ When I figured out the column of Percentage Funded on the Kickstarter workbook, 
 
 ## Results
 
-###Conclusions of the Outcomes Based on Launch Date
+### Conclusions of the Outcomes Based on Launch Date
 First, based on the analysis, we can conclude that the second quarter, especially May, has the highest number of successful crowdfunding campaigns. It shows that raising funds for the project is the easiest to succeed at this time. Also, it is the most challenging time to raise money in the fourth quarter because of the lowest successful and highest failed outcomes. Second, the number of cancellations of activities had always maintained a stable trend throughout the year, indicating a probability of occurrence every month. Therefore, it is less relevant to the prediction of the success of fund-raising. And there may be other factors that caused the cancellation of the event, such as extreme weather.
 
-###Conclusions of the Outcomes based on Goals
+### Conclusions of the Outcomes based on Goals
 There is an opposite direction between success and higher goal amount range. The higher the goal range, the lower the successful percentage, the higher failed percentage. 
 
-###Limitations of the dataset 
+### Limitations of the dataset 
 Based on Category Statistics fliter by country, I found that this dataset mainly focus on US and GB, which is not comprehensive enough to analyze all the areas.
 
-###Other possible tables and graphs 
+### Other possible tables and graphs 
 We could create the graph of Outcome based on pledged to analyze the amount people actually willling to pay on these projects. Also, we can figure out which year has the highest average donation between 2009-2017.
