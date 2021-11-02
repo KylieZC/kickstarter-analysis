@@ -4,7 +4,7 @@
 ## Overview of Project
 Louise is a playwright who wants to raise more than $ 10,000 funds the budget for her play, Fever. And she seeks whether there are specific factors to promote the success of the fundraising. 
 
-## Purpose
+### Purpose
 The project helps Louise uncover the facts and possible factors of successful crowdfunding campaigns based on the dataset, including 4,000 crowdfunding projects information. 
 
 
