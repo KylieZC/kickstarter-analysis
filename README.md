@@ -2,7 +2,10 @@
 
 
 ## Overview of Project
-Louise is a playwright who wants to raise more than $ 10,000 funds the budget for her play, Fever. And she seeks whether there are specific factors to promote the success of the fundraising. The project helps Louise uncover the facts and possible factors of successful crowdfunding campaigns based on the dataset, including 4,000 crowdfunding projects information. 
+Louise is a playwright who wants to raise more than $ 10,000 funds the budget for her play, Fever. And she seeks whether there are specific factors to promote the success of the fundraising. 
+
+## Purpose
+The project helps Louise uncover the facts and possible factors of successful crowdfunding campaigns based on the dataset, including 4,000 crowdfunding projects information. 
 
 
 ## Analysis and Challenges
@@ -19,10 +22,11 @@ When I figured out the column of Percentage Funded on the Kickstarter workbook, 
 
 ## Results
 
-### Conclusions of the Outcomes Based on Launch Date
-First, based on the analysis, we can conclude that the second quarter, especially May, has the highest number of successful crowdfunding campaigns. It shows that raising funds for the project is the easiest to succeed at this time. Also, it is the most challenging time to raise money in the fourth quarter because of the lowest successful and highest failed outcomes. Second, the number of cancellations of activities had always maintained a stable trend throughout the year, indicating a probability of occurrence every month. Therefore, it is less relevant to the prediction of the success of fund-raising. And there may be other factors that caused the cancellation of the event, such as extreme weather.
+### Two Conclusions of the Outcomes Based on Launch Date
+1. we can conclude that the second quarter, especially May, has the highest number of successful crowdfunding campaigns. It shows that raising funds for the project is the easiest to succeed at this time. Also, it is the most challenging time to raise money in the fourth quarter because of the lowest successful and highest failed outcomes. 
+2. the number of cancellations of activities had always maintained a stable trend throughout the year, indicating a probability of occurrence every month. Therefore, it is less relevant to the prediction of the success of fund-raising. And there may be other factors that caused the cancellation of the event, such as extreme weather.
 
-### Conclusions of the Outcomes based on Goals
+### Conclusion of the Outcomes based on Goals
 There is an opposite direction between success and higher goal amount range. The higher the goal range, the lower the successful percentage, the higher failed percentage. 
 
 ### Limitations of the dataset 
